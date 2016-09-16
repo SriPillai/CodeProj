@@ -1,0 +1,24 @@
+MEAN 
+
+MongoDB:
+NoSQL database system. 
+MongoDB saves data in binary JSON format which makes it easier to pass data between client and server.
+
+ExpressJS
+light-weight web application framework
+Purpose of it with NodeJS is don't have to repeat same code over and over again.
+
+AngularJS
+structural framework for dynamic web apps. 
+extends HTML with new attributes.
+perfect for Single Page Applications (SPAs)
+
+NodeJS
+ server side JavaScript execution environment. 
+It’s a platform built on Google Chrome’s V8 JavaScript runtime. 
+
+
+
+#########################################
+create a vm and install an application on it.what all needs to be configured?
+
