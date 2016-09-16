@@ -1,4 +1,5 @@
-MEAN technology
+MEAN technology 
+Document for mean technology 
 
 MongoDB:
 NoSQL database system. 
