@@ -1,4 +1,4 @@
-MEAN technology 
+MEAN 
 
 MongoDB:
 NoSQL database system. 
